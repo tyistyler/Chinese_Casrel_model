@@ -1,0 +1,1156 @@
+epoch:   0, setp:   50, speed: 419.84ms/b, train loss: 0.467
+epoch:   0, setp:  100, speed: 399.13ms/b, train loss: 0.259
+epoch   0, eval time:  2.46s, f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   1, setp:  150, speed: 456.21ms/b, train loss: 0.241
+epoch:   1, setp:  200, speed: 410.23ms/b, train loss: 0.214
+epoch:   1, setp:  250, speed: 391.65ms/b, train loss: 0.180
+epoch   1, eval time:  3.53s, f1: 0.01, precision: 0.01, recall: 0.07
+saving the model, epoch:   1, best f1: 0.01, precision: 0.01, recall: 0.07
+epoch:   2, setp:  300, speed: 476.61ms/b, train loss: 0.162
+epoch:   2, setp:  350, speed: 413.69ms/b, train loss: 0.145
+epoch   2, eval time:  3.14s, f1: 0.03, precision: 0.02, recall: 0.09
+saving the model, epoch:   2, best f1: 0.03, precision: 0.02, recall: 0.09
+epoch:   3, setp:  400, speed: 458.65ms/b, train loss: 0.129
+epoch:   3, setp:  450, speed: 402.38ms/b, train loss: 0.118
+epoch:   3, setp:  500, speed: 393.02ms/b, train loss: 0.114
+epoch   3, eval time:  3.37s, f1: 0.02, precision: 0.01, recall: 0.12
+epoch:   4, setp:  550, speed: 469.28ms/b, train loss: 0.103
+epoch:   4, setp:  600, speed: 396.13ms/b, train loss: 0.102
+epoch   4, eval time:  2.79s, f1: 0.03, precision: 0.01, recall: 0.16
+epoch:   5, setp:  650, speed: 458.44ms/b, train loss: 0.101
+epoch:   5, setp:  700, speed: 405.19ms/b, train loss: 0.091
+epoch:   5, setp:  750, speed: 403.82ms/b, train loss: 0.094
+epoch   5, eval time:  2.58s, f1: 0.03, precision: 0.02, recall: 0.16
+saving the model, epoch:   5, best f1: 0.03, precision: 0.02, recall: 0.16
+epoch:   6, setp:  800, speed: 472.82ms/b, train loss: 0.088
+epoch:   6, setp:  850, speed: 401.63ms/b, train loss: 0.082
+epoch   6, eval time:  2.52s, f1: 0.04, precision: 0.03, recall: 0.15
+saving the model, epoch:   6, best f1: 0.04, precision: 0.03, recall: 0.15
+epoch:   7, setp:  900, speed: 462.08ms/b, train loss: 0.084
+epoch:   7, setp:  950, speed: 405.47ms/b, train loss: 0.081
+epoch:   7, setp: 1000, speed: 398.02ms/b, train loss: 0.079
+epoch   7, eval time:  2.52s, f1: 0.05, precision: 0.03, recall: 0.16
+saving the model, epoch:   7, best f1: 0.05, precision: 0.03, recall: 0.16
+epoch:   8, setp: 1050, speed: 460.10ms/b, train loss: 0.074
+epoch:   8, setp: 1100, speed: 403.54ms/b, train loss: 0.075
+epoch:   8, setp: 1150, speed: 423.01ms/b, train loss: 0.076
+epoch   8, eval time:  2.89s, f1: 0.05, precision: 0.03, recall: 0.12
+saving the model, epoch:   8, best f1: 0.05, precision: 0.03, recall: 0.12
+epoch:   9, setp: 1200, speed: 483.68ms/b, train loss: 0.071
+epoch:   9, setp: 1250, speed: 429.44ms/b, train loss: 0.071
+epoch   9, eval time:  2.46s, f1: 0.05, precision: 0.03, recall: 0.16
+saving the model, epoch:   9, best f1: 0.05, precision: 0.03, recall: 0.16
+epoch:  10, setp: 1300, speed: 450.47ms/b, train loss: 0.068
+epoch:  10, setp: 1350, speed: 402.73ms/b, train loss: 0.070
+epoch:  10, setp: 1400, speed: 406.38ms/b, train loss: 0.067
+epoch  10, eval time:  2.45s, f1: 0.05, precision: 0.03, recall: 0.13
+saving the model, epoch:  10, best f1: 0.05, precision: 0.03, recall: 0.13
+epoch:  11, setp: 1450, speed: 477.77ms/b, train loss: 0.061
+epoch:  11, setp: 1500, speed: 421.69ms/b, train loss: 0.065
+epoch  11, eval time:  2.80s, f1: 0.05, precision: 0.03, recall: 0.12
+saving the model, epoch:  11, best f1: 0.05, precision: 0.03, recall: 0.12
+epoch:  12, setp: 1550, speed: 489.55ms/b, train loss: 0.062
+epoch:  12, setp: 1600, speed: 406.42ms/b, train loss: 0.058
+epoch:  12, setp: 1650, speed: 409.18ms/b, train loss: 0.062
+epoch  12, eval time:  2.37s, f1: 0.05, precision: 0.03, recall: 0.11
+epoch:  13, setp: 1700, speed: 448.10ms/b, train loss: 0.053
+epoch:  13, setp: 1750, speed: 400.79ms/b, train loss: 0.056
+epoch  13, eval time:  2.37s, f1: 0.05, precision: 0.04, recall: 0.11
+epoch:  14, setp: 1800, speed: 444.89ms/b, train loss: 0.057
+epoch:  14, setp: 1850, speed: 401.13ms/b, train loss: 0.054
+epoch:  14, setp: 1900, speed: 401.29ms/b, train loss: 0.054
+epoch  14, eval time:  2.31s, f1: 0.06, precision: 0.04, recall: 0.10
+saving the model, epoch:  14, best f1: 0.06, precision: 0.04, recall: 0.10
+epoch:  15, setp: 1950, speed: 467.13ms/b, train loss: 0.052
+epoch:  15, setp: 2000, speed: 408.45ms/b, train loss: 0.051
+epoch  15, eval time:  2.74s, f1: 0.06, precision: 0.04, recall: 0.10
+epoch:  16, setp: 2050, speed: 476.92ms/b, train loss: 0.048
+epoch:  16, setp: 2100, speed: 409.67ms/b, train loss: 0.048
+epoch:  16, setp: 2150, speed: 390.84ms/b, train loss: 0.048
+epoch  16, eval time:  2.33s, f1: 0.06, precision: 0.04, recall: 0.12
+saving the model, epoch:  16, best f1: 0.06, precision: 0.04, recall: 0.12
+epoch:  17, setp: 2200, speed: 453.53ms/b, train loss: 0.047
+epoch:  17, setp: 2250, speed: 397.95ms/b, train loss: 0.047
+epoch:  17, setp: 2300, speed: 399.33ms/b, train loss: 0.045
+epoch  17, eval time:  2.33s, f1: 0.06, precision: 0.04, recall: 0.12
+saving the model, epoch:  17, best f1: 0.06, precision: 0.04, recall: 0.12
+epoch:  18, setp: 2350, speed: 462.97ms/b, train loss: 0.042
+epoch:  18, setp: 2400, speed: 397.02ms/b, train loss: 0.044
+epoch  18, eval time:  2.31s, f1: 0.07, precision: 0.05, recall: 0.11
+saving the model, epoch:  18, best f1: 0.07, precision: 0.05, recall: 0.11
+epoch:  19, setp: 2450, speed: 468.38ms/b, train loss: 0.040
+epoch:  19, setp: 2500, speed: 395.83ms/b, train loss: 0.040
+epoch:  19, setp: 2550, speed: 394.81ms/b, train loss: 0.041
+epoch  19, eval time:  2.33s, f1: 0.06, precision: 0.04, recall: 0.12
+epoch:  20, setp: 2600, speed: 445.80ms/b, train loss: 0.040
+epoch:  20, setp: 2650, speed: 403.58ms/b, train loss: 0.038
+epoch  20, eval time:  2.27s, f1: 0.09, precision: 0.07, recall: 0.10
+saving the model, epoch:  20, best f1: 0.09, precision: 0.07, recall: 0.10
+epoch:  21, setp: 2700, speed: 451.60ms/b, train loss: 0.040
+epoch:  21, setp: 2750, speed: 402.81ms/b, train loss: 0.037
+epoch:  21, setp: 2800, speed: 396.74ms/b, train loss: 0.038
+epoch  21, eval time:  2.27s, f1: 0.08, precision: 0.06, recall: 0.11
+epoch:  22, setp: 2850, speed: 457.73ms/b, train loss: 0.037
+epoch:  22, setp: 2900, speed: 392.68ms/b, train loss: 0.037
+epoch  22, eval time:  2.28s, f1: 0.08, precision: 0.06, recall: 0.10
+epoch:  23, setp: 2950, speed: 445.02ms/b, train loss: 0.034
+epoch:  23, setp: 3000, speed: 397.20ms/b, train loss: 0.034
+epoch:  23, setp: 3050, speed: 407.59ms/b, train loss: 0.034
+epoch  23, eval time:  2.28s, f1: 0.08, precision: 0.06, recall: 0.10
+epoch:  24, setp: 3100, speed: 449.60ms/b, train loss: 0.034
+epoch:  24, setp: 3150, speed: 399.01ms/b, train loss: 0.032
+epoch:  24, setp: 3200, speed: 398.30ms/b, train loss: 0.033
+epoch  24, eval time:  2.31s, f1: 0.07, precision: 0.06, recall: 0.11
+epoch:  25, setp: 3250, speed: 460.18ms/b, train loss: 0.033
+epoch:  25, setp: 3300, speed: 395.41ms/b, train loss: 0.031
+epoch  25, eval time:  2.30s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  26, setp: 3350, speed: 466.34ms/b, train loss: 0.031
+epoch:  26, setp: 3400, speed: 425.31ms/b, train loss: 0.032
+epoch:  26, setp: 3450, speed: 396.34ms/b, train loss: 0.033
+epoch  26, eval time:  2.26s, f1: 0.09, precision: 0.07, recall: 0.11
+saving the model, epoch:  26, best f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  27, setp: 3500, speed: 454.06ms/b, train loss: 0.031
+epoch:  27, setp: 3550, speed: 394.73ms/b, train loss: 0.031
+epoch  27, eval time:  2.29s, f1: 0.08, precision: 0.06, recall: 0.10
+epoch:  28, setp: 3600, speed: 454.51ms/b, train loss: 0.031
+epoch:  28, setp: 3650, speed: 419.28ms/b, train loss: 0.029
+epoch:  28, setp: 3700, speed: 395.21ms/b, train loss: 0.030
+epoch  28, eval time:  2.28s, f1: 0.08, precision: 0.06, recall: 0.11
+epoch:  29, setp: 3750, speed: 454.10ms/b, train loss: 0.027
+epoch:  29, setp: 3800, speed: 402.14ms/b, train loss: 0.029
+epoch  29, eval time:  2.27s, f1: 0.09, precision: 0.08, recall: 0.10
+saving the model, epoch:  29, best f1: 0.09, precision: 0.08, recall: 0.10
+epoch:  30, setp: 3850, speed: 451.66ms/b, train loss: 0.030
+epoch:  30, setp: 3900, speed: 402.04ms/b, train loss: 0.028
+epoch:  30, setp: 3950, speed: 395.35ms/b, train loss: 0.028
+epoch  30, eval time:  2.25s, f1: 0.09, precision: 0.08, recall: 0.10
+epoch:  31, setp: 4000, speed: 447.25ms/b, train loss: 0.030
+epoch:  31, setp: 4050, speed: 403.13ms/b, train loss: 0.029
+epoch  31, eval time:  2.27s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  32, setp: 4100, speed: 454.11ms/b, train loss: 0.029
+epoch:  32, setp: 4150, speed: 398.25ms/b, train loss: 0.027
+epoch:  32, setp: 4200, speed: 394.94ms/b, train loss: 0.030
+epoch  32, eval time:  2.26s, f1: 0.10, precision: 0.09, recall: 0.10
+saving the model, epoch:  32, best f1: 0.10, precision: 0.09, recall: 0.10
+epoch:  33, setp: 4250, speed: 464.39ms/b, train loss: 0.028
+epoch:  33, setp: 4300, speed: 403.05ms/b, train loss: 0.028
+epoch:  33, setp: 4350, speed: 402.38ms/b, train loss: 0.026
+epoch  33, eval time:  2.26s, f1: 0.08, precision: 0.07, recall: 0.11
+epoch:  34, setp: 4400, speed: 452.28ms/b, train loss: 0.026
+epoch:  34, setp: 4450, speed: 396.15ms/b, train loss: 0.028
+epoch  34, eval time:  2.28s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  35, setp: 4500, speed: 451.36ms/b, train loss: 0.028
+epoch:  35, setp: 4550, speed: 391.65ms/b, train loss: 0.026
+epoch:  35, setp: 4600, speed: 396.70ms/b, train loss: 0.027
+epoch  35, eval time:  2.28s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  36, setp: 4650, speed: 457.00ms/b, train loss: 0.025
+epoch:  36, setp: 4700, speed: 392.75ms/b, train loss: 0.025
+epoch  36, eval time:  2.28s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  37, setp: 4750, speed: 445.65ms/b, train loss: 0.027
+epoch:  37, setp: 4800, speed: 403.56ms/b, train loss: 0.024
+epoch:  37, setp: 4850, speed: 391.72ms/b, train loss: 0.026
+epoch  37, eval time:  2.26s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  38, setp: 4900, speed: 457.34ms/b, train loss: 0.024
+epoch:  38, setp: 4950, speed: 391.90ms/b, train loss: 0.025
+epoch  38, eval time:  2.27s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  39, setp: 5000, speed: 444.15ms/b, train loss: 0.025
+epoch:  39, setp: 5050, speed: 388.80ms/b, train loss: 0.025
+epoch:  39, setp: 5100, speed: 404.31ms/b, train loss: 0.024
+epoch  39, eval time:  2.27s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  40, setp: 5150, speed: 455.90ms/b, train loss: 0.024
+epoch:  40, setp: 5200, speed: 406.68ms/b, train loss: 0.024
+epoch  40, eval time:  2.26s, f1: 0.10, precision: 0.09, recall: 0.12
+saving the model, epoch:  40, best f1: 0.10, precision: 0.09, recall: 0.12
+epoch:  41, setp: 5250, speed: 450.27ms/b, train loss: 0.025
+epoch:  41, setp: 5300, speed: 403.28ms/b, train loss: 0.026
+epoch:  41, setp: 5350, speed: 408.10ms/b, train loss: 0.024
+epoch  41, eval time:  2.22s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  42, setp: 5400, speed: 449.50ms/b, train loss: 0.023
+epoch:  42, setp: 5450, speed: 409.03ms/b, train loss: 0.023
+epoch:  42, setp: 5500, speed: 401.00ms/b, train loss: 0.024
+epoch  42, eval time:  2.23s, f1: 0.09, precision: 0.08, recall: 0.10
+epoch:  43, setp: 5550, speed: 438.81ms/b, train loss: 0.025
+epoch:  43, setp: 5600, speed: 410.86ms/b, train loss: 0.024
+epoch  43, eval time:  2.28s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  44, setp: 5650, speed: 459.70ms/b, train loss: 0.025
+epoch:  44, setp: 5700, speed: 410.82ms/b, train loss: 0.023
+epoch:  44, setp: 5750, speed: 416.86ms/b, train loss: 0.024
+epoch  44, eval time:  2.64s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  45, setp: 5800, speed: 482.82ms/b, train loss: 0.023
+epoch:  45, setp: 5850, speed: 411.95ms/b, train loss: 0.021
+epoch  45, eval time:  2.66s, f1: 0.08, precision: 0.06, recall: 0.11
+epoch:  46, setp: 5900, speed: 466.16ms/b, train loss: 0.026
+epoch:  46, setp: 5950, speed: 411.29ms/b, train loss: 0.021
+epoch:  46, setp: 6000, speed: 421.81ms/b, train loss: 0.025
+epoch  46, eval time:  2.62s, f1: 0.09, precision: 0.08, recall: 0.10
+epoch:  47, setp: 6050, speed: 482.47ms/b, train loss: 0.023
+epoch:  47, setp: 6100, speed: 410.57ms/b, train loss: 0.023
+epoch  47, eval time:  2.68s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  48, setp: 6150, speed: 467.40ms/b, train loss: 0.024
+epoch:  48, setp: 6200, speed: 421.34ms/b, train loss: 0.022
+epoch:  48, setp: 6250, speed: 410.54ms/b, train loss: 0.023
+epoch  48, eval time:  2.66s, f1: 0.08, precision: 0.07, recall: 0.10
+epoch:  49, setp: 6300, speed: 465.83ms/b, train loss: 0.023
+epoch:  49, setp: 6350, speed: 422.64ms/b, train loss: 0.024
+epoch:  49, setp: 6400, speed: 408.12ms/b, train loss: 0.022
+epoch  49, eval time:  2.66s, f1: 0.08, precision: 0.07, recall: 0.11
+epoch:  50, setp: 6450, speed: 476.89ms/b, train loss: 0.022
+epoch:  50, setp: 6500, speed: 415.86ms/b, train loss: 0.023
+epoch  50, eval time:  2.64s, f1: 0.10, precision: 0.08, recall: 0.12
+epoch:  51, setp: 6550, speed: 475.72ms/b, train loss: 0.021
+epoch:  51, setp: 6600, speed: 416.93ms/b, train loss: 0.022
+epoch:  51, setp: 6650, speed: 413.02ms/b, train loss: 0.020
+epoch  51, eval time:  2.27s, f1: 0.08, precision: 0.06, recall: 0.11
+epoch:  52, setp: 6700, speed: 448.46ms/b, train loss: 0.022
+epoch:  52, setp: 6750, speed: 395.36ms/b, train loss: 0.022
+epoch  52, eval time:  2.29s, f1: 0.09, precision: 0.08, recall: 0.10
+epoch:  53, setp: 6800, speed: 450.43ms/b, train loss: 0.022
+epoch:  53, setp: 6850, speed: 416.26ms/b, train loss: 0.023
+epoch:  53, setp: 6900, speed: 398.56ms/b, train loss: 0.020
+epoch  53, eval time:  2.24s, f1: 0.09, precision: 0.08, recall: 0.10
+epoch:  54, setp: 6950, speed: 438.01ms/b, train loss: 0.022
+epoch:  54, setp: 7000, speed: 406.99ms/b, train loss: 0.021
+epoch  54, eval time:  2.26s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  55, setp: 7050, speed: 437.65ms/b, train loss: 0.022
+epoch:  55, setp: 7100, speed: 403.27ms/b, train loss: 0.021
+epoch:  55, setp: 7150, speed: 398.88ms/b, train loss: 0.021
+epoch  55, eval time:  2.23s, f1: 0.10, precision: 0.08, recall: 0.11
+epoch:  56, setp: 7200, speed: 449.48ms/b, train loss: 0.021
+epoch:  56, setp: 7250, speed: 409.74ms/b, train loss: 0.021
+epoch  56, eval time:  2.25s, f1: 0.09, precision: 0.09, recall: 0.10
+epoch:  57, setp: 7300, speed: 438.50ms/b, train loss: 0.021
+epoch:  57, setp: 7350, speed: 402.76ms/b, train loss: 0.020
+epoch:  57, setp: 7400, speed: 386.79ms/b, train loss: 0.022
+epoch  57, eval time:  2.22s, f1: 0.10, precision: 0.09, recall: 0.10
+saving the model, epoch:  57, best f1: 0.10, precision: 0.09, recall: 0.10
+epoch:  58, setp: 7450, speed: 459.89ms/b, train loss: 0.020
+epoch:  58, setp: 7500, speed: 417.29ms/b, train loss: 0.022
+epoch:  58, setp: 7550, speed: 431.92ms/b, train loss: 0.022
+epoch  58, eval time:  2.62s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  59, setp: 7600, speed: 460.30ms/b, train loss: 0.021
+epoch:  59, setp: 7650, speed: 421.12ms/b, train loss: 0.021
+epoch  59, eval time:  2.57s, f1: 0.10, precision: 0.10, recall: 0.10
+epoch:  60, setp: 7700, speed: 466.38ms/b, train loss: 0.023
+epoch:  60, setp: 7750, speed: 408.31ms/b, train loss: 0.021
+epoch:  60, setp: 7800, speed: 416.64ms/b, train loss: 0.021
+epoch  60, eval time:  2.62s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  61, setp: 7850, speed: 486.60ms/b, train loss: 0.022
+epoch:  61, setp: 7900, speed: 405.72ms/b, train loss: 0.021
+epoch  61, eval time:  2.63s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  62, setp: 7950, speed: 469.53ms/b, train loss: 0.020
+epoch:  62, setp: 8000, speed: 400.49ms/b, train loss: 0.021
+epoch:  62, setp: 8050, speed: 421.41ms/b, train loss: 0.021
+epoch  62, eval time:  2.63s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  63, setp: 8100, speed: 477.68ms/b, train loss: 0.019
+epoch:  63, setp: 8150, speed: 416.56ms/b, train loss: 0.021
+epoch  63, eval time:  2.24s, f1: 0.10, precision: 0.10, recall: 0.11
+saving the model, epoch:  63, best f1: 0.10, precision: 0.10, recall: 0.11
+epoch:  64, setp: 8200, speed: 461.33ms/b, train loss: 0.020
+epoch:  64, setp: 8250, speed: 421.74ms/b, train loss: 0.021
+epoch:  64, setp: 8300, speed: 408.43ms/b, train loss: 0.019
+epoch  64, eval time:  2.62s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  65, setp: 8350, speed: 464.38ms/b, train loss: 0.020
+epoch:  65, setp: 8400, speed: 397.22ms/b, train loss: 0.020
+epoch  65, eval time:  2.21s, f1: 0.11, precision: 0.10, recall: 0.11
+saving the model, epoch:  65, best f1: 0.11, precision: 0.10, recall: 0.11
+epoch:  66, setp: 8450, speed: 452.94ms/b, train loss: 0.019
+epoch:  66, setp: 8500, speed: 394.59ms/b, train loss: 0.020
+epoch:  66, setp: 8550, speed: 390.27ms/b, train loss: 0.019
+epoch  66, eval time:  2.23s, f1: 0.09, precision: 0.09, recall: 0.10
+epoch:  67, setp: 8600, speed: 450.48ms/b, train loss: 0.021
+epoch:  67, setp: 8650, speed: 409.77ms/b, train loss: 0.020
+epoch:  67, setp: 8700, speed: 415.81ms/b, train loss: 0.021
+epoch  67, eval time:  2.58s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  68, setp: 8750, speed: 482.86ms/b, train loss: 0.019
+epoch:  68, setp: 8800, speed: 410.29ms/b, train loss: 0.021
+epoch  68, eval time:  2.58s, f1: 0.11, precision: 0.11, recall: 0.10
+saving the model, epoch:  68, best f1: 0.11, precision: 0.11, recall: 0.10
+epoch:  69, setp: 8850, speed: 480.75ms/b, train loss: 0.019
+epoch:  69, setp: 8900, speed: 417.65ms/b, train loss: 0.019
+epoch:  69, setp: 8950, speed: 416.38ms/b, train loss: 0.020
+epoch  69, eval time:  2.60s, f1: 0.10, precision: 0.10, recall: 0.11
+epoch:  70, setp: 9000, speed: 463.28ms/b, train loss: 0.019
+epoch:  70, setp: 9050, speed: 421.03ms/b, train loss: 0.018
+epoch  70, eval time:  2.61s, f1: 0.11, precision: 0.10, recall: 0.12
+saving the model, epoch:  70, best f1: 0.11, precision: 0.10, recall: 0.12
+epoch:  71, setp: 9100, speed: 487.55ms/b, train loss: 0.019
+epoch:  71, setp: 9150, speed: 407.78ms/b, train loss: 0.018
+epoch:  71, setp: 9200, speed: 421.44ms/b, train loss: 0.018
+epoch  71, eval time:  2.62s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  72, setp: 9250, speed: 474.24ms/b, train loss: 0.019
+epoch:  72, setp: 9300, speed: 420.94ms/b, train loss: 0.019
+epoch  72, eval time:  2.61s, f1: 0.10, precision: 0.08, recall: 0.12
+epoch:  73, setp: 9350, speed: 457.85ms/b, train loss: 0.020
+epoch:  73, setp: 9400, speed: 415.01ms/b, train loss: 0.020
+epoch:  73, setp: 9450, speed: 420.40ms/b, train loss: 0.019
+epoch  73, eval time:  2.66s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  74, setp: 9500, speed: 473.56ms/b, train loss: 0.018
+epoch:  74, setp: 9550, speed: 417.20ms/b, train loss: 0.019
+epoch:  74, setp: 9600, speed: 404.34ms/b, train loss: 0.019
+epoch  74, eval time:  2.59s, f1: 0.11, precision: 0.10, recall: 0.12
+saving the model, epoch:  74, best f1: 0.11, precision: 0.10, recall: 0.12
+epoch:  75, setp: 9650, speed: 457.53ms/b, train loss: 0.019
+epoch:  75, setp: 9700, speed: 401.39ms/b, train loss: 0.019
+epoch  75, eval time:  2.22s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  76, setp: 9750, speed: 455.09ms/b, train loss: 0.019
+epoch:  76, setp: 9800, speed: 413.64ms/b, train loss: 0.020
+epoch:  76, setp: 9850, speed: 425.96ms/b, train loss: 0.019
+epoch  76, eval time:  2.61s, f1: 0.09, precision: 0.08, recall: 0.11
+epoch:  77, setp: 9900, speed: 458.84ms/b, train loss: 0.018
+epoch:  77, setp: 9950, speed: 392.13ms/b, train loss: 0.020
+epoch  77, eval time:  2.20s, f1: 0.10, precision: 0.10, recall: 0.11
+epoch:  78, setp: 10000, speed: 450.31ms/b, train loss: 0.019
+epoch:  78, setp: 10050, speed: 416.02ms/b, train loss: 0.018
+epoch:  78, setp: 10100, speed: 426.32ms/b, train loss: 0.018
+epoch  78, eval time:  2.61s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  79, setp: 10150, speed: 470.82ms/b, train loss: 0.019
+epoch:  79, setp: 10200, speed: 393.75ms/b, train loss: 0.020
+epoch  79, eval time:  2.19s, f1: 0.10, precision: 0.09, recall: 0.10
+epoch:  80, setp: 10250, speed: 439.71ms/b, train loss: 0.019
+epoch:  80, setp: 10300, speed: 395.04ms/b, train loss: 0.017
+epoch:  80, setp: 10350, speed: 406.97ms/b, train loss: 0.019
+epoch  80, eval time:  2.18s, f1: 0.10, precision: 0.10, recall: 0.10
+epoch:  81, setp: 10400, speed: 449.31ms/b, train loss: 0.018
+epoch:  81, setp: 10450, speed: 410.87ms/b, train loss: 0.019
+epoch  81, eval time:  2.60s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  82, setp: 10500, speed: 473.14ms/b, train loss: 0.018
+epoch:  82, setp: 10550, speed: 417.36ms/b, train loss: 0.018
+epoch:  82, setp: 10600, speed: 417.79ms/b, train loss: 0.018
+epoch  82, eval time:  2.61s, f1: 0.10, precision: 0.08, recall: 0.11
+epoch:  83, setp: 10650, speed: 476.16ms/b, train loss: 0.018
+epoch:  83, setp: 10700, speed: 388.61ms/b, train loss: 0.017
+epoch:  83, setp: 10750, speed: 388.71ms/b, train loss: 0.018
+epoch  83, eval time:  2.23s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  84, setp: 10800, speed: 450.58ms/b, train loss: 0.018
+epoch:  84, setp: 10850, speed: 396.59ms/b, train loss: 0.018
+epoch  84, eval time:  2.22s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  85, setp: 10900, speed: 437.02ms/b, train loss: 0.018
+epoch:  85, setp: 10950, speed: 406.57ms/b, train loss: 0.018
+epoch:  85, setp: 11000, speed: 397.12ms/b, train loss: 0.017
+epoch  85, eval time:  2.21s, f1: 0.10, precision: 0.10, recall: 0.10
+epoch:  86, setp: 11050, speed: 437.98ms/b, train loss: 0.019
+epoch:  86, setp: 11100, speed: 407.18ms/b, train loss: 0.019
+epoch  86, eval time:  2.22s, f1: 0.10, precision: 0.10, recall: 0.10
+epoch:  87, setp: 11150, speed: 440.64ms/b, train loss: 0.018
+epoch:  87, setp: 11200, speed: 400.96ms/b, train loss: 0.018
+epoch:  87, setp: 11250, speed: 400.78ms/b, train loss: 0.018
+epoch  87, eval time:  2.18s, f1: 0.10, precision: 0.12, recall: 0.09
+epoch:  88, setp: 11300, speed: 442.24ms/b, train loss: 0.020
+epoch:  88, setp: 11350, speed: 407.49ms/b, train loss: 0.018
+epoch  88, eval time:  2.24s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  89, setp: 11400, speed: 447.21ms/b, train loss: 0.019
+epoch:  89, setp: 11450, speed: 393.54ms/b, train loss: 0.020
+epoch:  89, setp: 11500, speed: 404.23ms/b, train loss: 0.018
+epoch  89, eval time:  2.23s, f1: 0.10, precision: 0.10, recall: 0.10
+epoch:  90, setp: 11550, speed: 443.17ms/b, train loss: 0.018
+epoch:  90, setp: 11600, speed: 422.50ms/b, train loss: 0.017
+epoch  90, eval time:  2.59s, f1: 0.11, precision: 0.10, recall: 0.11
+epoch:  91, setp: 11650, speed: 470.96ms/b, train loss: 0.019
+epoch:  91, setp: 11700, speed: 425.48ms/b, train loss: 0.017
+epoch:  91, setp: 11750, speed: 386.73ms/b, train loss: 0.018
+epoch  91, eval time:  2.23s, f1: 0.10, precision: 0.10, recall: 0.12
+epoch:  92, setp: 11800, speed: 455.93ms/b, train loss: 0.018
+epoch:  92, setp: 11850, speed: 388.66ms/b, train loss: 0.018
+epoch:  92, setp: 11900, speed: 401.92ms/b, train loss: 0.018
+epoch  92, eval time:  2.20s, f1: 0.10, precision: 0.11, recall: 0.10
+epoch:  93, setp: 11950, speed: 457.12ms/b, train loss: 0.018
+epoch:  93, setp: 12000, speed: 386.89ms/b, train loss: 0.018
+epoch  93, eval time:  2.20s, f1: 0.11, precision: 0.11, recall: 0.10
+epoch:  94, setp: 12050, speed: 438.76ms/b, train loss: 0.020
+epoch:  94, setp: 12100, speed: 414.85ms/b, train loss: 0.018
+epoch:  94, setp: 12150, speed: 390.03ms/b, train loss: 0.016
+epoch  94, eval time:  2.20s, f1: 0.10, precision: 0.10, recall: 0.10
+epoch:  95, setp: 12200, speed: 446.28ms/b, train loss: 0.019
+epoch:  95, setp: 12250, speed: 403.91ms/b, train loss: 0.018
+epoch  95, eval time:  2.22s, f1: 0.10, precision: 0.09, recall: 0.12
+epoch:  96, setp: 12300, speed: 429.95ms/b, train loss: 0.018
+epoch:  96, setp: 12350, speed: 420.81ms/b, train loss: 0.018
+epoch:  96, setp: 12400, speed: 408.86ms/b, train loss: 0.018
+epoch  96, eval time:  2.60s, f1: 0.10, precision: 0.09, recall: 0.11
+epoch:  97, setp: 12450, speed: 471.02ms/b, train loss: 0.018
+epoch:  97, setp: 12500, speed: 415.02ms/b, train loss: 0.018
+epoch  97, eval time:  2.59s, f1: 0.11, precision: 0.11, recall: 0.11
+epoch:  98, setp: 12550, speed: 469.74ms/b, train loss: 0.018
+epoch:  98, setp: 12600, speed: 422.42ms/b, train loss: 0.017
+epoch:  98, setp: 12650, speed: 416.47ms/b, train loss: 0.018
+epoch  98, eval time:  2.57s, f1: 0.10, precision: 0.10, recall: 0.11
+epoch:  99, setp: 12700, speed: 456.78ms/b, train loss: 0.017
+epoch:  99, setp: 12750, speed: 407.20ms/b, train loss: 0.017
+epoch:  99, setp: 12800, speed: 382.36ms/b, train loss: 0.018
+epoch  99, eval time:  2.22s, f1: 0.10, precision: 0.10, recall: 0.11
+finish training
+best epoch: 74, best f1: 0.11082251077274713, precision: 0.10355987055015344, recall: 0.11918063314710249, total time: 5460.53s
+epoch:   0, setp:   50, speed: 300.71ms/b, train loss: 0.363
+epoch:   0, setp:  100, speed: 295.60ms/b, train loss: 0.147
+epoch   0, eval time:  2.20s, f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   1, setp:  150, speed: 364.70ms/b, train loss: 0.149
+epoch:   1, setp:  200, speed: 290.06ms/b, train loss: 0.146
+epoch:   1, setp:  250, speed: 295.81ms/b, train loss: 0.140
+epoch   1, eval time:  2.21s, f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   2, setp:  300, speed: 339.22ms/b, train loss: 0.128
+epoch:   2, setp:  350, speed: 319.27ms/b, train loss: 0.119
+epoch   2, eval time:  3.01s, f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   3, setp:  400, speed: 346.62ms/b, train loss: 0.117
+epoch:   3, setp:  450, speed: 307.12ms/b, train loss: 0.111
+epoch:   3, setp:  500, speed: 303.15ms/b, train loss: 0.105
+epoch   3, eval time:  2.72s, f1: 0.00, precision: 0.00, recall: 0.00
+saving the model, epoch:   3, best f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   4, setp:  550, speed: 389.22ms/b, train loss: 0.100
+epoch:   4, setp:  600, speed: 291.20ms/b, train loss: 0.096
+epoch:   0, setp:   50, speed: 411.95ms/b, train loss: 0.471
+epoch:   0, setp:  100, speed: 404.09ms/b, train loss: 0.273
+epoch   0, eval time:  2.96s, f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   1, setp:  150, speed: 466.47ms/b, train loss: 0.248
+epoch:   1, setp:  200, speed: 408.75ms/b, train loss: 0.219
+epoch:   1, setp:  250, speed: 395.55ms/b, train loss: 0.178
+epoch   1, eval time:  2.83s, f1: 0.02, precision: 0.01, recall: 0.07
+saving the model, epoch:   1, best f1: 0.02, precision: 0.01, recall: 0.07
+epoch:   2, setp:  300, speed: 509.62ms/b, train loss: 0.162
+epoch:   2, setp:  350, speed: 405.55ms/b, train loss: 0.143
+epoch   2, eval time:  2.77s, f1: 0.02, precision: 0.01, recall: 0.12
+saving the model, epoch:   2, best f1: 0.02, precision: 0.01, recall: 0.12
+epoch:   3, setp:  400, speed: 503.25ms/b, train loss: 0.127
+epoch:   3, setp:  450, speed: 399.98ms/b, train loss: 0.114
+epoch:   3, setp:  500, speed: 399.20ms/b, train loss: 0.114
+epoch   3, eval time:  2.98s, f1: 0.02, precision: 0.01, recall: 0.16
+epoch:   4, setp:  550, speed: 463.91ms/b, train loss: 0.101
+epoch:   4, setp:  600, speed: 402.59ms/b, train loss: 0.099
+epoch   4, eval time:  3.08s, f1: 0.02, precision: 0.01, recall: 0.19
+epoch:   5, setp:  650, speed: 464.59ms/b, train loss: 0.095
+epoch:   5, setp:  700, speed: 408.98ms/b, train loss: 0.089
+epoch:   5, setp:  750, speed: 407.60ms/b, train loss: 0.089
+epoch   5, eval time:  2.63s, f1: 0.03, precision: 0.02, recall: 0.13
+saving the model, epoch:   5, best f1: 0.03, precision: 0.02, recall: 0.13
+epoch:   6, setp:  800, speed: 517.96ms/b, train loss: 0.087
+epoch:   6, setp:  850, speed: 411.98ms/b, train loss: 0.083
+epoch   6, eval time:  2.53s, f1: 0.04, precision: 0.02, recall: 0.17
+saving the model, epoch:   6, best f1: 0.04, precision: 0.02, recall: 0.17
+epoch:   7, setp:  900, speed: 500.22ms/b, train loss: 0.081
+epoch:   7, setp:  950, speed: 411.23ms/b, train loss: 0.079
+epoch:   7, setp: 1000, speed: 403.92ms/b, train loss: 0.076
+epoch   7, eval time:  2.53s, f1: 0.05, precision: 0.03, recall: 0.16
+saving the model, epoch:   7, best f1: 0.05, precision: 0.03, recall: 0.16
+epoch:   8, setp: 1050, speed: 495.48ms/b, train loss: 0.073
+epoch:   8, setp: 1100, speed: 407.34ms/b, train loss: 0.071
+epoch:   8, setp: 1150, speed: 404.56ms/b, train loss: 0.075
+epoch   8, eval time:  2.54s, f1: 0.04, precision: 0.02, recall: 0.17
+epoch:   9, setp: 1200, speed: 448.70ms/b, train loss: 0.071
+epoch:   9, setp: 1250, speed: 417.11ms/b, train loss: 0.069
+epoch   9, eval time:  2.37s, f1: 0.06, precision: 0.03, recall: 0.16
+saving the model, epoch:   9, best f1: 0.06, precision: 0.03, recall: 0.16
+epoch:  10, setp: 1300, speed: 498.37ms/b, train loss: 0.066
+epoch:  10, setp: 1350, speed: 404.08ms/b, train loss: 0.066
+epoch:  10, setp: 1400, speed: 409.12ms/b, train loss: 0.066
+epoch  10, eval time:  2.47s, f1: 0.05, precision: 0.03, recall: 0.17
+epoch:  11, setp: 1450, speed: 455.25ms/b, train loss: 0.062
+epoch:  11, setp: 1500, speed: 407.93ms/b, train loss: 0.062
+epoch  11, eval time:  2.43s, f1: 0.05, precision: 0.03, recall: 0.17
+epoch:  12, setp: 1550, speed: 448.40ms/b, train loss: 0.060
+epoch:  12, setp: 1600, speed: 402.85ms/b, train loss: 0.056
+epoch:  12, setp: 1650, speed: 402.52ms/b, train loss: 0.057
+epoch  12, eval time:  2.37s, f1: 0.07, precision: 0.05, recall: 0.16
+saving the model, epoch:  12, best f1: 0.07, precision: 0.05, recall: 0.16
+epoch:  13, setp: 1700, speed: 512.20ms/b, train loss: 0.054
+epoch:  13, setp: 1750, speed: 401.60ms/b, train loss: 0.054
+epoch  13, eval time:  2.35s, f1: 0.06, precision: 0.04, recall: 0.16
+epoch:  14, setp: 1800, speed: 441.48ms/b, train loss: 0.056
+epoch:  14, setp: 1850, speed: 404.12ms/b, train loss: 0.054
+epoch:  14, setp: 1900, speed: 402.71ms/b, train loss: 0.051
+epoch  14, eval time:  2.36s, f1: 0.07, precision: 0.04, recall: 0.17
+epoch:  15, setp: 1950, speed: 451.27ms/b, train loss: 0.050
+epoch:  15, setp: 2000, speed: 391.22ms/b, train loss: 0.051
+epoch  15, eval time:  2.31s, f1: 0.06, precision: 0.04, recall: 0.13
+epoch:  16, setp: 2050, speed: 453.54ms/b, train loss: 0.048
+epoch:  16, setp: 2100, speed: 409.37ms/b, train loss: 0.047
+epoch:  16, setp: 2150, speed: 394.83ms/b, train loss: 0.046
+epoch  16, eval time:  2.32s, f1: 0.07, precision: 0.04, recall: 0.17
+epoch:  17, setp: 2200, speed: 445.93ms/b, train loss: 0.044
+epoch:  17, setp: 2250, speed: 398.39ms/b, train loss: 0.045
+epoch:  17, setp: 2300, speed: 403.05ms/b, train loss: 0.043
+epoch  17, eval time:  2.33s, f1: 0.07, precision: 0.04, recall: 0.16
+epoch:  18, setp: 2350, speed: 455.31ms/b, train loss: 0.043
+epoch:  18, setp: 2400, speed: 396.02ms/b, train loss: 0.045
+epoch  18, eval time:  2.29s, f1: 0.07, precision: 0.05, recall: 0.14
+epoch:  19, setp: 2450, speed: 464.64ms/b, train loss: 0.041
+epoch:  19, setp: 2500, speed: 399.31ms/b, train loss: 0.040
+epoch:  19, setp: 2550, speed: 395.79ms/b, train loss: 0.041
+epoch  19, eval time:  2.32s, f1: 0.07, precision: 0.04, recall: 0.14
+epoch:  20, setp: 2600, speed: 444.95ms/b, train loss: 0.041
+epoch:  20, setp: 2650, speed: 404.46ms/b, train loss: 0.038
+epoch  20, eval time:  2.29s, f1: 0.06, precision: 0.04, recall: 0.14
+epoch:  21, setp: 2700, speed: 445.47ms/b, train loss: 0.037
+epoch:  21, setp: 2750, speed: 405.95ms/b, train loss: 0.037
+epoch:  21, setp: 2800, speed: 399.65ms/b, train loss: 0.038
+epoch  21, eval time:  2.33s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  22, setp: 2850, speed: 461.41ms/b, train loss: 0.037
+epoch:  22, setp: 2900, speed: 397.85ms/b, train loss: 0.035
+epoch  22, eval time:  2.33s, f1: 0.07, precision: 0.05, recall: 0.13
+epoch:  23, setp: 2950, speed: 449.87ms/b, train loss: 0.035
+epoch:  23, setp: 3000, speed: 402.35ms/b, train loss: 0.036
+epoch:  23, setp: 3050, speed: 416.24ms/b, train loss: 0.036
+epoch  23, eval time:  2.44s, f1: 0.07, precision: 0.04, recall: 0.15
+epoch:  24, setp: 3100, speed: 454.88ms/b, train loss: 0.034
+epoch:  24, setp: 3150, speed: 413.06ms/b, train loss: 0.034
+epoch:  24, setp: 3200, speed: 399.46ms/b, train loss: 0.033
+epoch  24, eval time:  2.32s, f1: 0.07, precision: 0.05, recall: 0.16
+saving the model, epoch:  24, best f1: 0.07, precision: 0.05, recall: 0.16
+epoch:  25, setp: 3250, speed: 502.10ms/b, train loss: 0.033
+epoch:  25, setp: 3300, speed: 398.37ms/b, train loss: 0.032
+epoch  25, eval time:  2.28s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  26, setp: 3350, speed: 463.39ms/b, train loss: 0.031
+epoch:  26, setp: 3400, speed: 401.53ms/b, train loss: 0.033
+epoch:  26, setp: 3450, speed: 399.16ms/b, train loss: 0.032
+epoch  26, eval time:  2.29s, f1: 0.08, precision: 0.06, recall: 0.13
+saving the model, epoch:  26, best f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  27, setp: 3500, speed: 511.67ms/b, train loss: 0.031
+epoch:  27, setp: 3550, speed: 397.35ms/b, train loss: 0.030
+epoch  27, eval time:  2.27s, f1: 0.07, precision: 0.05, recall: 0.13
+epoch:  28, setp: 3600, speed: 453.91ms/b, train loss: 0.031
+epoch:  28, setp: 3650, speed: 412.42ms/b, train loss: 0.030
+epoch:  28, setp: 3700, speed: 398.67ms/b, train loss: 0.032
+epoch  28, eval time:  2.28s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  29, setp: 3750, speed: 459.78ms/b, train loss: 0.028
+epoch:  29, setp: 3800, speed: 405.26ms/b, train loss: 0.030
+epoch  29, eval time:  2.28s, f1: 0.08, precision: 0.05, recall: 0.14
+epoch:  30, setp: 3850, speed: 447.24ms/b, train loss: 0.029
+epoch:  30, setp: 3900, speed: 407.23ms/b, train loss: 0.029
+epoch:  30, setp: 3950, speed: 397.17ms/b, train loss: 0.030
+epoch  30, eval time:  2.28s, f1: 0.09, precision: 0.06, recall: 0.14
+saving the model, epoch:  30, best f1: 0.09, precision: 0.06, recall: 0.14
+epoch:  31, setp: 4000, speed: 506.27ms/b, train loss: 0.027
+epoch:  31, setp: 4050, speed: 406.93ms/b, train loss: 0.030
+epoch  31, eval time:  2.28s, f1: 0.06, precision: 0.04, recall: 0.13
+epoch:  32, setp: 4100, speed: 451.20ms/b, train loss: 0.028
+epoch:  32, setp: 4150, speed: 401.10ms/b, train loss: 0.029
+epoch:  32, setp: 4200, speed: 394.99ms/b, train loss: 0.028
+epoch  32, eval time:  2.24s, f1: 0.08, precision: 0.06, recall: 0.11
+epoch:  33, setp: 4250, speed: 457.46ms/b, train loss: 0.028
+epoch:  33, setp: 4300, speed: 405.71ms/b, train loss: 0.027
+epoch:  33, setp: 4350, speed: 404.28ms/b, train loss: 0.026
+epoch  33, eval time:  2.24s, f1: 0.09, precision: 0.07, recall: 0.12
+saving the model, epoch:  33, best f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  34, setp: 4400, speed: 516.39ms/b, train loss: 0.027
+epoch:  34, setp: 4450, speed: 399.82ms/b, train loss: 0.027
+epoch  34, eval time:  2.28s, f1: 0.08, precision: 0.05, recall: 0.16
+epoch:  35, setp: 4500, speed: 452.80ms/b, train loss: 0.026
+epoch:  35, setp: 4550, speed: 400.71ms/b, train loss: 0.026
+epoch:  35, setp: 4600, speed: 399.74ms/b, train loss: 0.025
+epoch  35, eval time:  2.26s, f1: 0.08, precision: 0.05, recall: 0.14
+epoch:  36, setp: 4650, speed: 451.80ms/b, train loss: 0.026
+epoch:  36, setp: 4700, speed: 398.66ms/b, train loss: 0.026
+epoch  36, eval time:  2.24s, f1: 0.09, precision: 0.06, recall: 0.13
+epoch:  37, setp: 4750, speed: 449.53ms/b, train loss: 0.027
+epoch:  37, setp: 4800, speed: 406.10ms/b, train loss: 0.024
+epoch:  37, setp: 4850, speed: 393.53ms/b, train loss: 0.027
+epoch  37, eval time:  2.27s, f1: 0.08, precision: 0.05, recall: 0.14
+epoch:  38, setp: 4900, speed: 459.21ms/b, train loss: 0.024
+epoch:  38, setp: 4950, speed: 391.19ms/b, train loss: 0.025
+epoch  38, eval time:  2.25s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  39, setp: 5000, speed: 447.41ms/b, train loss: 0.026
+epoch:  39, setp: 5050, speed: 391.54ms/b, train loss: 0.025
+epoch:  39, setp: 5100, speed: 406.41ms/b, train loss: 0.025
+epoch  39, eval time:  2.60s, f1: 0.08, precision: 0.05, recall: 0.16
+epoch:  40, setp: 5150, speed: 466.44ms/b, train loss: 0.025
+epoch:  40, setp: 5200, speed: 395.98ms/b, train loss: 0.024
+epoch  40, eval time:  2.22s, f1: 0.09, precision: 0.07, recall: 0.12
+saving the model, epoch:  40, best f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  41, setp: 5250, speed: 489.75ms/b, train loss: 0.026
+epoch:  41, setp: 5300, speed: 408.44ms/b, train loss: 0.026
+epoch:  41, setp: 5350, speed: 399.20ms/b, train loss: 0.024
+epoch  41, eval time:  2.26s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  42, setp: 5400, speed: 446.07ms/b, train loss: 0.024
+epoch:  42, setp: 5450, speed: 414.04ms/b, train loss: 0.026
+epoch:  42, setp: 5500, speed: 401.06ms/b, train loss: 0.025
+epoch  42, eval time:  2.26s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  43, setp: 5550, speed: 444.44ms/b, train loss: 0.025
+epoch:  43, setp: 5600, speed: 412.26ms/b, train loss: 0.024
+epoch  43, eval time:  2.27s, f1: 0.08, precision: 0.05, recall: 0.14
+epoch:  44, setp: 5650, speed: 448.43ms/b, train loss: 0.026
+epoch:  44, setp: 5700, speed: 405.88ms/b, train loss: 0.025
+epoch:  44, setp: 5750, speed: 398.87ms/b, train loss: 0.025
+epoch  44, eval time:  2.25s, f1: 0.07, precision: 0.05, recall: 0.13
+epoch:  45, setp: 5800, speed: 454.50ms/b, train loss: 0.024
+epoch:  45, setp: 5850, speed: 401.77ms/b, train loss: 0.022
+epoch  45, eval time:  2.24s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  46, setp: 5900, speed: 439.07ms/b, train loss: 0.024
+epoch:  46, setp: 5950, speed: 400.84ms/b, train loss: 0.021
+epoch:  46, setp: 6000, speed: 406.06ms/b, train loss: 0.025
+epoch  46, eval time:  2.27s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  47, setp: 6050, speed: 463.54ms/b, train loss: 0.022
+epoch:  47, setp: 6100, speed: 398.44ms/b, train loss: 0.025
+epoch  47, eval time:  2.26s, f1: 0.09, precision: 0.07, recall: 0.13
+saving the model, epoch:  47, best f1: 0.09, precision: 0.07, recall: 0.13
+epoch:  48, setp: 6150, speed: 486.41ms/b, train loss: 0.023
+epoch:  48, setp: 6200, speed: 409.46ms/b, train loss: 0.022
+epoch:  48, setp: 6250, speed: 396.30ms/b, train loss: 0.024
+epoch  48, eval time:  2.27s, f1: 0.08, precision: 0.05, recall: 0.14
+epoch:  49, setp: 6300, speed: 445.27ms/b, train loss: 0.024
+epoch:  49, setp: 6350, speed: 409.55ms/b, train loss: 0.024
+epoch:  49, setp: 6400, speed: 392.21ms/b, train loss: 0.021
+epoch  49, eval time:  2.27s, f1: 0.08, precision: 0.06, recall: 0.14
+epoch:  50, setp: 6450, speed: 450.64ms/b, train loss: 0.023
+epoch:  50, setp: 6500, speed: 405.29ms/b, train loss: 0.022
+epoch  50, eval time:  2.26s, f1: 0.09, precision: 0.06, recall: 0.14
+epoch:  51, setp: 6550, speed: 453.56ms/b, train loss: 0.022
+epoch:  51, setp: 6600, speed: 400.94ms/b, train loss: 0.023
+epoch:  51, setp: 6650, speed: 404.20ms/b, train loss: 0.022
+epoch  51, eval time:  2.26s, f1: 0.08, precision: 0.06, recall: 0.15
+epoch:  52, setp: 6700, speed: 453.72ms/b, train loss: 0.022
+epoch:  52, setp: 6750, speed: 398.67ms/b, train loss: 0.022
+epoch  52, eval time:  2.23s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  53, setp: 6800, speed: 453.26ms/b, train loss: 0.023
+epoch:  53, setp: 6850, speed: 406.68ms/b, train loss: 0.023
+epoch:  53, setp: 6900, speed: 402.44ms/b, train loss: 0.022
+epoch  53, eval time:  2.25s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  54, setp: 6950, speed: 452.48ms/b, train loss: 0.021
+epoch:  54, setp: 7000, speed: 399.27ms/b, train loss: 0.020
+epoch  54, eval time:  2.24s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  55, setp: 7050, speed: 440.75ms/b, train loss: 0.023
+epoch:  55, setp: 7100, speed: 404.33ms/b, train loss: 0.021
+epoch:  55, setp: 7150, speed: 401.90ms/b, train loss: 0.022
+epoch  55, eval time:  2.24s, f1: 0.09, precision: 0.06, recall: 0.14
+epoch:  56, setp: 7200, speed: 454.52ms/b, train loss: 0.022
+epoch:  56, setp: 7250, speed: 413.14ms/b, train loss: 0.022
+epoch  56, eval time:  2.25s, f1: 0.09, precision: 0.07, recall: 0.14
+saving the model, epoch:  56, best f1: 0.09, precision: 0.07, recall: 0.14
+epoch:  57, setp: 7300, speed: 497.64ms/b, train loss: 0.020
+epoch:  57, setp: 7350, speed: 406.56ms/b, train loss: 0.023
+epoch:  57, setp: 7400, speed: 389.66ms/b, train loss: 0.021
+epoch  57, eval time:  2.25s, f1: 0.09, precision: 0.07, recall: 0.14
+saving the model, epoch:  57, best f1: 0.09, precision: 0.07, recall: 0.14
+epoch:  58, setp: 7450, speed: 498.38ms/b, train loss: 0.021
+epoch:  58, setp: 7500, speed: 400.06ms/b, train loss: 0.022
+epoch:  58, setp: 7550, speed: 415.57ms/b, train loss: 0.022
+epoch  58, eval time:  2.25s, f1: 0.09, precision: 0.06, recall: 0.13
+epoch:  59, setp: 7600, speed: 437.37ms/b, train loss: 0.021
+epoch:  59, setp: 7650, speed: 405.66ms/b, train loss: 0.021
+epoch  59, eval time:  2.27s, f1: 0.08, precision: 0.06, recall: 0.14
+epoch:  60, setp: 7700, speed: 446.92ms/b, train loss: 0.023
+epoch:  60, setp: 7750, speed: 399.68ms/b, train loss: 0.021
+epoch:  60, setp: 7800, speed: 402.76ms/b, train loss: 0.021
+epoch  60, eval time:  2.23s, f1: 0.09, precision: 0.07, recall: 0.14
+epoch:  61, setp: 7850, speed: 462.23ms/b, train loss: 0.021
+epoch:  61, setp: 7900, speed: 393.38ms/b, train loss: 0.021
+epoch  61, eval time:  2.24s, f1: 0.09, precision: 0.06, recall: 0.13
+epoch:  62, setp: 7950, speed: 447.80ms/b, train loss: 0.020
+epoch:  62, setp: 8000, speed: 387.93ms/b, train loss: 0.022
+epoch:  62, setp: 8050, speed: 406.81ms/b, train loss: 0.021
+epoch  62, eval time:  2.27s, f1: 0.07, precision: 0.05, recall: 0.15
+epoch:  63, setp: 8100, speed: 454.17ms/b, train loss: 0.020
+epoch:  63, setp: 8150, speed: 402.60ms/b, train loss: 0.021
+epoch  63, eval time:  2.25s, f1: 0.09, precision: 0.06, recall: 0.13
+epoch:  64, setp: 8200, speed: 446.66ms/b, train loss: 0.021
+epoch:  64, setp: 8250, speed: 408.91ms/b, train loss: 0.022
+epoch:  64, setp: 8300, speed: 395.45ms/b, train loss: 0.021
+epoch  64, eval time:  2.26s, f1: 0.09, precision: 0.06, recall: 0.13
+epoch:  65, setp: 8350, speed: 456.23ms/b, train loss: 0.020
+epoch:  65, setp: 8400, speed: 399.92ms/b, train loss: 0.021
+epoch  65, eval time:  2.24s, f1: 0.09, precision: 0.06, recall: 0.13
+epoch:  66, setp: 8450, speed: 448.93ms/b, train loss: 0.019
+epoch:  66, setp: 8500, speed: 398.88ms/b, train loss: 0.019
+epoch:  66, setp: 8550, speed: 393.87ms/b, train loss: 0.021
+epoch  66, eval time:  2.24s, f1: 0.09, precision: 0.07, recall: 0.13
+epoch:  67, setp: 8600, speed: 445.95ms/b, train loss: 0.021
+epoch:  67, setp: 8650, speed: 394.77ms/b, train loss: 0.020
+epoch:  67, setp: 8700, speed: 406.15ms/b, train loss: 0.020
+epoch  67, eval time:  2.23s, f1: 0.09, precision: 0.07, recall: 0.15
+saving the model, epoch:  67, best f1: 0.09, precision: 0.07, recall: 0.15
+epoch:  68, setp: 8750, speed: 521.19ms/b, train loss: 0.020
+epoch:  68, setp: 8800, speed: 394.34ms/b, train loss: 0.022
+epoch  68, eval time:  2.27s, f1: 0.08, precision: 0.06, recall: 0.14
+epoch:  69, setp: 8850, speed: 451.01ms/b, train loss: 0.020
+epoch:  69, setp: 8900, speed: 404.36ms/b, train loss: 0.022
+epoch:  69, setp: 8950, speed: 401.74ms/b, train loss: 0.021
+epoch  69, eval time:  2.23s, f1: 0.09, precision: 0.08, recall: 0.12
+epoch:  70, setp: 9000, speed: 438.70ms/b, train loss: 0.020
+epoch:  70, setp: 9050, speed: 412.55ms/b, train loss: 0.020
+epoch  70, eval time:  2.23s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  71, setp: 9100, speed: 454.41ms/b, train loss: 0.020
+epoch:  71, setp: 9150, speed: 394.68ms/b, train loss: 0.019
+epoch:  71, setp: 9200, speed: 405.51ms/b, train loss: 0.019
+epoch  71, eval time:  2.27s, f1: 0.08, precision: 0.05, recall: 0.13
+epoch:  72, setp: 9250, speed: 458.01ms/b, train loss: 0.020
+epoch:  72, setp: 9300, speed: 404.46ms/b, train loss: 0.021
+epoch  72, eval time:  2.24s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  73, setp: 9350, speed: 438.55ms/b, train loss: 0.020
+epoch:  73, setp: 9400, speed: 405.08ms/b, train loss: 0.021
+epoch:  73, setp: 9450, speed: 411.55ms/b, train loss: 0.021
+epoch  73, eval time:  2.26s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  74, setp: 9500, speed: 442.46ms/b, train loss: 0.019
+epoch:  74, setp: 9550, speed: 401.20ms/b, train loss: 0.021
+epoch:  74, setp: 9600, speed: 392.22ms/b, train loss: 0.019
+epoch  74, eval time:  2.23s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  75, setp: 9650, speed: 445.53ms/b, train loss: 0.020
+epoch:  75, setp: 9700, speed: 402.33ms/b, train loss: 0.019
+epoch  75, eval time:  2.24s, f1: 0.09, precision: 0.07, recall: 0.14
+epoch:  76, setp: 9750, speed: 448.64ms/b, train loss: 0.019
+epoch:  76, setp: 9800, speed: 407.93ms/b, train loss: 0.020
+epoch:  76, setp: 9850, speed: 400.53ms/b, train loss: 0.022
+epoch  76, eval time:  2.22s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  77, setp: 9900, speed: 455.10ms/b, train loss: 0.019
+epoch:  77, setp: 9950, speed: 395.05ms/b, train loss: 0.020
+epoch  77, eval time:  2.23s, f1: 0.10, precision: 0.08, recall: 0.14
+saving the model, epoch:  77, best f1: 0.10, precision: 0.08, recall: 0.14
+epoch:  78, setp: 10000, speed: 497.31ms/b, train loss: 0.020
+epoch:  78, setp: 10050, speed: 403.22ms/b, train loss: 0.019
+epoch:  78, setp: 10100, speed: 412.19ms/b, train loss: 0.020
+epoch  78, eval time:  2.23s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  79, setp: 10150, speed: 453.89ms/b, train loss: 0.019
+epoch:  79, setp: 10200, speed: 403.51ms/b, train loss: 0.020
+epoch  79, eval time:  2.25s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  80, setp: 10250, speed: 443.59ms/b, train loss: 0.019
+epoch:  80, setp: 10300, speed: 407.56ms/b, train loss: 0.019
+epoch:  80, setp: 10350, speed: 401.91ms/b, train loss: 0.019
+epoch  80, eval time:  2.25s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  81, setp: 10400, speed: 448.54ms/b, train loss: 0.019
+epoch:  81, setp: 10450, speed: 401.40ms/b, train loss: 0.020
+epoch  81, eval time:  2.21s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  82, setp: 10500, speed: 451.19ms/b, train loss: 0.018
+epoch:  82, setp: 10550, speed: 402.50ms/b, train loss: 0.020
+epoch:  82, setp: 10600, speed: 404.93ms/b, train loss: 0.019
+epoch  82, eval time:  2.24s, f1: 0.09, precision: 0.07, recall: 0.13
+epoch:  83, setp: 10650, speed: 447.27ms/b, train loss: 0.018
+epoch:  83, setp: 10700, speed: 401.82ms/b, train loss: 0.020
+epoch:  83, setp: 10750, speed: 392.55ms/b, train loss: 0.018
+epoch  83, eval time:  2.25s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  84, setp: 10800, speed: 454.31ms/b, train loss: 0.019
+epoch:  84, setp: 10850, speed: 399.14ms/b, train loss: 0.018
+epoch  84, eval time:  2.24s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  85, setp: 10900, speed: 450.22ms/b, train loss: 0.019
+epoch:  85, setp: 10950, speed: 399.47ms/b, train loss: 0.020
+epoch:  85, setp: 11000, speed: 399.78ms/b, train loss: 0.019
+epoch  85, eval time:  2.26s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  86, setp: 11050, speed: 445.81ms/b, train loss: 0.020
+epoch:  86, setp: 11100, speed: 410.21ms/b, train loss: 0.019
+epoch  86, eval time:  2.26s, f1: 0.09, precision: 0.07, recall: 0.13
+epoch:  87, setp: 11150, speed: 444.33ms/b, train loss: 0.018
+epoch:  87, setp: 11200, speed: 405.78ms/b, train loss: 0.018
+epoch:  87, setp: 11250, speed: 403.07ms/b, train loss: 0.020
+epoch  87, eval time:  2.25s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  88, setp: 11300, speed: 447.86ms/b, train loss: 0.018
+epoch:  88, setp: 11350, speed: 411.26ms/b, train loss: 0.020
+epoch  88, eval time:  2.22s, f1: 0.08, precision: 0.07, recall: 0.10
+epoch:  89, setp: 11400, speed: 446.65ms/b, train loss: 0.018
+epoch:  89, setp: 11450, speed: 403.99ms/b, train loss: 0.020
+epoch:  89, setp: 11500, speed: 404.77ms/b, train loss: 0.019
+epoch  89, eval time:  2.27s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  90, setp: 11550, speed: 432.32ms/b, train loss: 0.018
+epoch:  90, setp: 11600, speed: 409.42ms/b, train loss: 0.017
+epoch  90, eval time:  2.26s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  91, setp: 11650, speed: 450.72ms/b, train loss: 0.020
+epoch:  91, setp: 11700, speed: 421.89ms/b, train loss: 0.019
+epoch:  91, setp: 11750, speed: 389.21ms/b, train loss: 0.019
+epoch  91, eval time:  2.28s, f1: 0.07, precision: 0.05, recall: 0.12
+epoch:  92, setp: 11800, speed: 456.44ms/b, train loss: 0.019
+epoch:  92, setp: 11850, speed: 391.09ms/b, train loss: 0.019
+epoch:  92, setp: 11900, speed: 404.50ms/b, train loss: 0.019
+epoch  92, eval time:  2.23s, f1: 0.08, precision: 0.06, recall: 0.12
+epoch:  93, setp: 11950, speed: 462.39ms/b, train loss: 0.019
+epoch:  93, setp: 12000, speed: 391.71ms/b, train loss: 0.018
+epoch  93, eval time:  2.23s, f1: 0.09, precision: 0.07, recall: 0.13
+epoch:  94, setp: 12050, speed: 443.65ms/b, train loss: 0.018
+epoch:  94, setp: 12100, speed: 417.66ms/b, train loss: 0.018
+epoch:  94, setp: 12150, speed: 392.70ms/b, train loss: 0.018
+epoch  94, eval time:  2.24s, f1: 0.08, precision: 0.07, recall: 0.12
+epoch:  95, setp: 12200, speed: 447.87ms/b, train loss: 0.018
+epoch:  95, setp: 12250, speed: 404.77ms/b, train loss: 0.016
+epoch  95, eval time:  2.22s, f1: 0.09, precision: 0.07, recall: 0.11
+epoch:  96, setp: 12300, speed: 435.94ms/b, train loss: 0.019
+epoch:  96, setp: 12350, speed: 410.39ms/b, train loss: 0.019
+epoch:  96, setp: 12400, speed: 393.41ms/b, train loss: 0.018
+epoch  96, eval time:  2.25s, f1: 0.08, precision: 0.06, recall: 0.13
+epoch:  97, setp: 12450, speed: 462.86ms/b, train loss: 0.019
+epoch:  97, setp: 12500, speed: 398.46ms/b, train loss: 0.020
+epoch  97, eval time:  2.22s, f1: 0.09, precision: 0.07, recall: 0.12
+epoch:  98, setp: 12550, speed: 443.13ms/b, train loss: 0.018
+epoch:  98, setp: 12600, speed: 406.94ms/b, train loss: 0.018
+epoch:  98, setp: 12650, speed: 405.63ms/b, train loss: 0.019
+epoch  98, eval time:  2.23s, f1: 0.09, precision: 0.07, recall: 0.13
+epoch:  99, setp: 12700, speed: 443.58ms/b, train loss: 0.017
+epoch:  99, setp: 12750, speed: 407.43ms/b, train loss: 0.019
+epoch:  99, setp: 12800, speed: 385.87ms/b, train loss: 0.019
+epoch  99, eval time:  2.20s, f1: 0.09, precision: 0.08, recall: 0.12
+finish training
+best epoch: 77, best f1: 0.1029051452103349, precision: 0.0824453168816555, recall: 0.13687150837987552, total time: 5439.80s
+epoch:   0, setp:   50, speed: 413.09ms/b, train loss: 0.471
+epoch:   0, setp:  100, speed: 405.90ms/b, train loss: 0.273
+epoch   0, eval time:  3.13s, f1: 0.00, precision: 0.00, recall: 0.00
+epoch:   1, setp:  150, speed: 471.88ms/b, train loss: 0.248
+epoch:   1, setp:  200, speed: 411.35ms/b, train loss: 0.219
+epoch:   1, setp:  250, speed: 397.89ms/b, train loss: 0.178
+epoch   1, eval time:  2.98s, f1: 0.06, precision: 0.03, recall: 0.41
+saving the model, epoch:   1, best f1: 0.06, precision: 0.03, recall: 0.41
+epoch:   2, setp:  300, speed: 526.89ms/b, train loss: 0.162
+epoch:   2, setp:  350, speed: 407.85ms/b, train loss: 0.143
+epoch   2, eval time:  2.91s, f1: 0.05, precision: 0.03, recall: 0.43
+epoch:   3, setp:  400, speed: 455.83ms/b, train loss: 0.127
+epoch:   3, setp:  450, speed: 402.05ms/b, train loss: 0.114
+epoch:   3, setp:  500, speed: 401.19ms/b, train loss: 0.114
+epoch   3, eval time:  3.12s, f1: 0.05, precision: 0.03, recall: 0.72
+epoch:   4, setp:  550, speed: 468.45ms/b, train loss: 0.101
+epoch:   4, setp:  600, speed: 404.76ms/b, train loss: 0.099
+epoch   4, eval time:  2.95s, f1: 0.07, precision: 0.04, recall: 0.79
+saving the model, epoch:   4, best f1: 0.07, precision: 0.04, recall: 0.79
+epoch:   5, setp:  650, speed: 512.26ms/b, train loss: 0.095
+epoch:   5, setp:  700, speed: 410.21ms/b, train loss: 0.089
+epoch:   5, setp:  750, speed: 410.30ms/b, train loss: 0.089
+epoch   5, eval time:  2.68s, f1: 0.11, precision: 0.06, recall: 0.70
+saving the model, epoch:   5, best f1: 0.11, precision: 0.06, recall: 0.70
+epoch:   6, setp:  800, speed: 523.98ms/b, train loss: 0.087
+epoch:   6, setp:  850, speed: 413.88ms/b, train loss: 0.083
+epoch   6, eval time:  2.55s, f1: 0.13, precision: 0.07, recall: 0.78
+saving the model, epoch:   6, best f1: 0.13, precision: 0.07, recall: 0.78
+epoch:   7, setp:  900, speed: 506.21ms/b, train loss: 0.081
+epoch:   7, setp:  950, speed: 412.87ms/b, train loss: 0.079
+epoch:   7, setp: 1000, speed: 405.18ms/b, train loss: 0.076
+epoch   7, eval time:  2.55s, f1: 0.15, precision: 0.09, recall: 0.77
+saving the model, epoch:   7, best f1: 0.15, precision: 0.09, recall: 0.77
+epoch:   8, setp: 1050, speed: 499.04ms/b, train loss: 0.073
+epoch:   8, setp: 1100, speed: 409.81ms/b, train loss: 0.071
+epoch:   8, setp: 1150, speed: 406.85ms/b, train loss: 0.075
+epoch   8, eval time:  2.61s, f1: 0.14, precision: 0.08, recall: 0.79
+epoch:   9, setp: 1200, speed: 452.62ms/b, train loss: 0.071
+epoch:   9, setp: 1250, speed: 416.59ms/b, train loss: 0.069
+epoch   9, eval time:  2.47s, f1: 0.20, precision: 0.11, recall: 0.79
+saving the model, epoch:   9, best f1: 0.20, precision: 0.11, recall: 0.79
+epoch:  10, setp: 1300, speed: 496.96ms/b, train loss: 0.066
+epoch:  10, setp: 1350, speed: 409.06ms/b, train loss: 0.066
+epoch:  10, setp: 1400, speed: 411.18ms/b, train loss: 0.066
+epoch  10, eval time:  2.51s, f1: 0.18, precision: 0.10, recall: 0.78
+epoch:  11, setp: 1450, speed: 458.08ms/b, train loss: 0.062
+epoch:  11, setp: 1500, speed: 409.44ms/b, train loss: 0.062
+epoch  11, eval time:  2.45s, f1: 0.19, precision: 0.11, recall: 0.81
+epoch:  12, setp: 1550, speed: 451.07ms/b, train loss: 0.060
+epoch:  12, setp: 1600, speed: 407.02ms/b, train loss: 0.056
+epoch:  12, setp: 1650, speed: 404.70ms/b, train loss: 0.057
+epoch  12, eval time:  2.59s, f1: 0.26, precision: 0.16, recall: 0.78
+saving the model, epoch:  12, best f1: 0.26, precision: 0.16, recall: 0.78
+epoch:  13, setp: 1700, speed: 518.02ms/b, train loss: 0.054
+epoch:  13, setp: 1750, speed: 404.58ms/b, train loss: 0.054
+epoch  13, eval time:  2.48s, f1: 0.22, precision: 0.13, recall: 0.80
+epoch:  14, setp: 1800, speed: 447.37ms/b, train loss: 0.056
+epoch:  14, setp: 1850, speed: 407.52ms/b, train loss: 0.054
+epoch:  14, setp: 1900, speed: 405.55ms/b, train loss: 0.051
+epoch  14, eval time:  2.43s, f1: 0.24, precision: 0.14, recall: 0.78
+epoch:  15, setp: 1950, speed: 455.46ms/b, train loss: 0.050
+epoch:  15, setp: 2000, speed: 393.71ms/b, train loss: 0.051
+epoch  15, eval time:  2.40s, f1: 0.26, precision: 0.16, recall: 0.79
+saving the model, epoch:  15, best f1: 0.26, precision: 0.16, recall: 0.79
+epoch:  16, setp: 2050, speed: 507.45ms/b, train loss: 0.048
+epoch:  16, setp: 2100, speed: 411.55ms/b, train loss: 0.047
+epoch:  16, setp: 2150, speed: 397.99ms/b, train loss: 0.046
+epoch  16, eval time:  2.40s, f1: 0.27, precision: 0.16, recall: 0.80
+saving the model, epoch:  16, best f1: 0.27, precision: 0.16, recall: 0.80
+epoch:  17, setp: 2200, speed: 501.37ms/b, train loss: 0.044
+epoch:  17, setp: 2250, speed: 402.87ms/b, train loss: 0.045
+epoch:  17, setp: 2300, speed: 404.91ms/b, train loss: 0.043
+epoch  17, eval time:  2.40s, f1: 0.24, precision: 0.14, recall: 0.78
+epoch:  18, setp: 2350, speed: 458.39ms/b, train loss: 0.043
+epoch:  18, setp: 2400, speed: 397.94ms/b, train loss: 0.045
+epoch  18, eval time:  2.35s, f1: 0.29, precision: 0.18, recall: 0.78
+saving the model, epoch:  18, best f1: 0.29, precision: 0.18, recall: 0.78
+epoch:  19, setp: 2450, speed: 522.81ms/b, train loss: 0.041
+epoch:  19, setp: 2500, speed: 401.10ms/b, train loss: 0.040
+epoch:  19, setp: 2550, speed: 397.98ms/b, train loss: 0.041
+epoch  19, eval time:  2.35s, f1: 0.30, precision: 0.18, recall: 0.78
+saving the model, epoch:  19, best f1: 0.30, precision: 0.18, recall: 0.78
+epoch:  20, setp: 2600, speed: 506.56ms/b, train loss: 0.041
+epoch:  20, setp: 2650, speed: 406.18ms/b, train loss: 0.038
+epoch  20, eval time:  2.36s, f1: 0.27, precision: 0.16, recall: 0.81
+epoch:  21, setp: 2700, speed: 447.45ms/b, train loss: 0.037
+epoch:  21, setp: 2750, speed: 405.93ms/b, train loss: 0.037
+epoch:  21, setp: 2800, speed: 400.66ms/b, train loss: 0.038
+epoch  21, eval time:  2.33s, f1: 0.31, precision: 0.19, recall: 0.77
+saving the model, epoch:  21, best f1: 0.31, precision: 0.19, recall: 0.77
+epoch:  22, setp: 2850, speed: 518.69ms/b, train loss: 0.037
+epoch:  22, setp: 2900, speed: 397.73ms/b, train loss: 0.035
+epoch  22, eval time:  2.35s, f1: 0.29, precision: 0.18, recall: 0.79
+epoch:  23, setp: 2950, speed: 450.85ms/b, train loss: 0.035
+epoch:  23, setp: 3000, speed: 402.60ms/b, train loss: 0.036
+epoch:  23, setp: 3050, speed: 417.24ms/b, train loss: 0.036
+epoch  23, eval time:  2.37s, f1: 0.26, precision: 0.15, recall: 0.81
+epoch:  24, setp: 3100, speed: 453.51ms/b, train loss: 0.034
+epoch:  24, setp: 3150, speed: 413.74ms/b, train loss: 0.034
+epoch:  24, setp: 3200, speed: 403.62ms/b, train loss: 0.033
+epoch  24, eval time:  2.39s, f1: 0.28, precision: 0.17, recall: 0.81
+epoch:  25, setp: 3250, speed: 460.74ms/b, train loss: 0.033
+epoch:  25, setp: 3300, speed: 400.13ms/b, train loss: 0.032
+epoch  25, eval time:  2.37s, f1: 0.31, precision: 0.19, recall: 0.76
+epoch:  26, setp: 3350, speed: 466.64ms/b, train loss: 0.031
+epoch:  26, setp: 3400, speed: 403.43ms/b, train loss: 0.033
+epoch:  26, setp: 3450, speed: 400.86ms/b, train loss: 0.032
+epoch  26, eval time:  2.36s, f1: 0.34, precision: 0.22, recall: 0.77
+saving the model, epoch:  26, best f1: 0.34, precision: 0.22, recall: 0.77
+epoch:  27, setp: 3500, speed: 516.65ms/b, train loss: 0.031
+epoch:  27, setp: 3550, speed: 399.36ms/b, train loss: 0.030
+epoch  27, eval time:  2.33s, f1: 0.31, precision: 0.19, recall: 0.80
+epoch:  28, setp: 3600, speed: 456.93ms/b, train loss: 0.031
+epoch:  28, setp: 3650, speed: 413.95ms/b, train loss: 0.030
+epoch:  28, setp: 3700, speed: 399.74ms/b, train loss: 0.032
+epoch  28, eval time:  2.32s, f1: 0.33, precision: 0.21, recall: 0.76
+epoch:  29, setp: 3750, speed: 461.85ms/b, train loss: 0.028
+epoch:  29, setp: 3800, speed: 406.50ms/b, train loss: 0.030
+epoch  29, eval time:  2.33s, f1: 0.30, precision: 0.19, recall: 0.81
+epoch:  30, setp: 3850, speed: 448.06ms/b, train loss: 0.029
+epoch:  30, setp: 3900, speed: 408.02ms/b, train loss: 0.029
+epoch:  30, setp: 3950, speed: 398.36ms/b, train loss: 0.030
+epoch  30, eval time:  2.33s, f1: 0.33, precision: 0.21, recall: 0.79
+epoch:  31, setp: 4000, speed: 456.46ms/b, train loss: 0.027
+epoch:  31, setp: 4050, speed: 406.39ms/b, train loss: 0.030
+epoch  31, eval time:  2.34s, f1: 0.31, precision: 0.19, recall: 0.82
+epoch:  32, setp: 4100, speed: 454.88ms/b, train loss: 0.028
+epoch:  32, setp: 4150, speed: 403.37ms/b, train loss: 0.029
+epoch:  32, setp: 4200, speed: 397.16ms/b, train loss: 0.028
+epoch  32, eval time:  2.32s, f1: 0.35, precision: 0.22, recall: 0.78
+saving the model, epoch:  32, best f1: 0.35, precision: 0.22, recall: 0.78
+epoch:  33, setp: 4250, speed: 518.03ms/b, train loss: 0.028
+epoch:  33, setp: 4300, speed: 407.01ms/b, train loss: 0.027
+epoch:  33, setp: 4350, speed: 405.64ms/b, train loss: 0.026
+epoch  33, eval time:  2.30s, f1: 0.35, precision: 0.23, recall: 0.75
+saving the model, epoch:  33, best f1: 0.35, precision: 0.23, recall: 0.75
+epoch:  34, setp: 4400, speed: 527.54ms/b, train loss: 0.027
+epoch:  34, setp: 4450, speed: 401.23ms/b, train loss: 0.027
+epoch  34, eval time:  2.33s, f1: 0.30, precision: 0.18, recall: 0.81
+epoch:  35, setp: 4500, speed: 455.23ms/b, train loss: 0.026
+epoch:  35, setp: 4550, speed: 402.03ms/b, train loss: 0.026
+epoch:  35, setp: 4600, speed: 401.21ms/b, train loss: 0.025
+epoch  35, eval time:  2.32s, f1: 0.30, precision: 0.18, recall: 0.80
+epoch:  36, setp: 4650, speed: 454.86ms/b, train loss: 0.026
+epoch:  36, setp: 4700, speed: 397.22ms/b, train loss: 0.026
+epoch  36, eval time:  2.30s, f1: 0.32, precision: 0.20, recall: 0.79
+epoch:  37, setp: 4750, speed: 452.24ms/b, train loss: 0.027
+epoch:  37, setp: 4800, speed: 407.70ms/b, train loss: 0.024
+epoch:  37, setp: 4850, speed: 394.83ms/b, train loss: 0.027
+epoch  37, eval time:  2.32s, f1: 0.32, precision: 0.20, recall: 0.81
+epoch:  38, setp: 4900, speed: 464.95ms/b, train loss: 0.024
+epoch:  38, setp: 4950, speed: 393.11ms/b, train loss: 0.025
+epoch  38, eval time:  2.30s, f1: 0.32, precision: 0.21, recall: 0.75
+epoch:  39, setp: 5000, speed: 450.25ms/b, train loss: 0.026
+epoch:  39, setp: 5050, speed: 393.16ms/b, train loss: 0.025
+epoch:  39, setp: 5100, speed: 407.68ms/b, train loss: 0.025
+epoch  39, eval time:  2.32s, f1: 0.30, precision: 0.18, recall: 0.82
+epoch:  40, setp: 5150, speed: 461.44ms/b, train loss: 0.025
+epoch:  40, setp: 5200, speed: 397.58ms/b, train loss: 0.024
+epoch  40, eval time:  2.28s, f1: 0.36, precision: 0.23, recall: 0.78
+saving the model, epoch:  40, best f1: 0.36, precision: 0.23, recall: 0.78
+epoch:  41, setp: 5250, speed: 504.72ms/b, train loss: 0.026
+epoch:  41, setp: 5300, speed: 410.06ms/b, train loss: 0.026
+epoch:  41, setp: 5350, speed: 400.53ms/b, train loss: 0.024
+epoch  41, eval time:  2.31s, f1: 0.32, precision: 0.20, recall: 0.81
+epoch:  42, setp: 5400, speed: 446.02ms/b, train loss: 0.024
+epoch:  42, setp: 5450, speed: 415.54ms/b, train loss: 0.026
+epoch:  42, setp: 5500, speed: 402.84ms/b, train loss: 0.025
+epoch  42, eval time:  2.32s, f1: 0.33, precision: 0.21, recall: 0.81
+epoch:  43, setp: 5550, speed: 447.14ms/b, train loss: 0.025
+epoch:  43, setp: 5600, speed: 413.97ms/b, train loss: 0.024
+epoch  43, eval time:  2.32s, f1: 0.32, precision: 0.20, recall: 0.82
+epoch:  44, setp: 5650, speed: 451.10ms/b, train loss: 0.026
+epoch:  44, setp: 5700, speed: 407.57ms/b, train loss: 0.025
+epoch:  44, setp: 5750, speed: 403.19ms/b, train loss: 0.025
+epoch  44, eval time:  2.31s, f1: 0.33, precision: 0.21, recall: 0.82
+epoch:  45, setp: 5800, speed: 457.58ms/b, train loss: 0.024
+epoch:  45, setp: 5850, speed: 403.51ms/b, train loss: 0.022
+epoch  45, eval time:  2.29s, f1: 0.35, precision: 0.22, recall: 0.80
+epoch:  46, setp: 5900, speed: 441.89ms/b, train loss: 0.024
+epoch:  46, setp: 5950, speed: 399.68ms/b, train loss: 0.021
+epoch:  46, setp: 6000, speed: 407.41ms/b, train loss: 0.025
+epoch  46, eval time:  2.32s, f1: 0.32, precision: 0.20, recall: 0.81
+epoch:  47, setp: 6050, speed: 465.76ms/b, train loss: 0.022
+epoch:  47, setp: 6100, speed: 399.78ms/b, train loss: 0.025
+epoch  47, eval time:  2.30s, f1: 0.35, precision: 0.23, recall: 0.79
+epoch:  48, setp: 6150, speed: 443.53ms/b, train loss: 0.023
+epoch:  48, setp: 6200, speed: 408.50ms/b, train loss: 0.022
+epoch:  48, setp: 6250, speed: 397.96ms/b, train loss: 0.024
+epoch  48, eval time:  2.32s, f1: 0.32, precision: 0.20, recall: 0.81
+epoch:  49, setp: 6300, speed: 448.02ms/b, train loss: 0.024
+epoch:  49, setp: 6350, speed: 410.96ms/b, train loss: 0.024
+epoch:  49, setp: 6400, speed: 393.61ms/b, train loss: 0.021
+epoch  49, eval time:  2.31s, f1: 0.34, precision: 0.21, recall: 0.82
+epoch:  50, setp: 6450, speed: 453.22ms/b, train loss: 0.023
+epoch:  50, setp: 6500, speed: 406.76ms/b, train loss: 0.022
+epoch  50, eval time:  2.31s, f1: 0.33, precision: 0.21, recall: 0.81
+epoch:  51, setp: 6550, speed: 456.12ms/b, train loss: 0.022
+epoch:  51, setp: 6600, speed: 401.65ms/b, train loss: 0.023
+epoch:  51, setp: 6650, speed: 405.31ms/b, train loss: 0.022
+epoch  51, eval time:  2.31s, f1: 0.34, precision: 0.21, recall: 0.81
+epoch:  52, setp: 6700, speed: 456.36ms/b, train loss: 0.022
+epoch:  52, setp: 6750, speed: 400.61ms/b, train loss: 0.022
+epoch  52, eval time:  2.29s, f1: 0.35, precision: 0.22, recall: 0.82
+epoch:  53, setp: 6800, speed: 455.97ms/b, train loss: 0.023
+epoch:  53, setp: 6850, speed: 410.80ms/b, train loss: 0.023
+epoch:  53, setp: 6900, speed: 403.94ms/b, train loss: 0.022
+epoch  53, eval time:  2.31s, f1: 0.36, precision: 0.23, recall: 0.80
+saving the model, epoch:  53, best f1: 0.36, precision: 0.23, recall: 0.80
+epoch:  54, setp: 6950, speed: 512.59ms/b, train loss: 0.021
+epoch:  54, setp: 7000, speed: 400.97ms/b, train loss: 0.020
+epoch  54, eval time:  2.30s, f1: 0.35, precision: 0.22, recall: 0.83
+epoch:  55, setp: 7050, speed: 443.32ms/b, train loss: 0.023
+epoch:  55, setp: 7100, speed: 405.55ms/b, train loss: 0.021
+epoch:  55, setp: 7150, speed: 403.31ms/b, train loss: 0.022
+epoch  55, eval time:  2.30s, f1: 0.35, precision: 0.22, recall: 0.82
+epoch:  56, setp: 7200, speed: 457.52ms/b, train loss: 0.022
+epoch:  56, setp: 7250, speed: 414.66ms/b, train loss: 0.022
+epoch  56, eval time:  2.31s, f1: 0.35, precision: 0.22, recall: 0.81
+epoch:  57, setp: 7300, speed: 444.02ms/b, train loss: 0.020
+epoch:  57, setp: 7350, speed: 408.07ms/b, train loss: 0.023
+epoch:  57, setp: 7400, speed: 391.38ms/b, train loss: 0.021
+epoch  57, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.78
+epoch:  58, setp: 7450, speed: 449.04ms/b, train loss: 0.021
+epoch:  58, setp: 7500, speed: 401.40ms/b, train loss: 0.022
+epoch:  58, setp: 7550, speed: 416.98ms/b, train loss: 0.022
+epoch  58, eval time:  2.30s, f1: 0.37, precision: 0.24, recall: 0.81
+saving the model, epoch:  58, best f1: 0.37, precision: 0.24, recall: 0.81
+epoch:  59, setp: 7600, speed: 513.46ms/b, train loss: 0.021
+epoch:  59, setp: 7650, speed: 407.39ms/b, train loss: 0.021
+epoch  59, eval time:  2.32s, f1: 0.34, precision: 0.22, recall: 0.82
+epoch:  60, setp: 7700, speed: 451.57ms/b, train loss: 0.023
+epoch:  60, setp: 7750, speed: 398.18ms/b, train loss: 0.021
+epoch:  60, setp: 7800, speed: 404.14ms/b, train loss: 0.021
+epoch  60, eval time:  2.29s, f1: 0.36, precision: 0.23, recall: 0.81
+epoch:  61, setp: 7850, speed: 464.70ms/b, train loss: 0.021
+epoch:  61, setp: 7900, speed: 394.78ms/b, train loss: 0.021
+epoch  61, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.81
+epoch:  62, setp: 7950, speed: 447.94ms/b, train loss: 0.020
+epoch:  62, setp: 8000, speed: 389.37ms/b, train loss: 0.022
+epoch:  62, setp: 8050, speed: 408.22ms/b, train loss: 0.021
+epoch  62, eval time:  2.32s, f1: 0.32, precision: 0.20, recall: 0.83
+epoch:  63, setp: 8100, speed: 456.61ms/b, train loss: 0.020
+epoch:  63, setp: 8150, speed: 404.26ms/b, train loss: 0.021
+epoch  63, eval time:  2.30s, f1: 0.35, precision: 0.23, recall: 0.81
+epoch:  64, setp: 8200, speed: 449.35ms/b, train loss: 0.021
+epoch:  64, setp: 8250, speed: 410.54ms/b, train loss: 0.022
+epoch:  64, setp: 8300, speed: 394.07ms/b, train loss: 0.021
+epoch  64, eval time:  2.31s, f1: 0.34, precision: 0.21, recall: 0.82
+epoch:  65, setp: 8350, speed: 459.01ms/b, train loss: 0.020
+epoch:  65, setp: 8400, speed: 401.44ms/b, train loss: 0.021
+epoch  65, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.81
+epoch:  66, setp: 8450, speed: 451.71ms/b, train loss: 0.019
+epoch:  66, setp: 8500, speed: 400.51ms/b, train loss: 0.019
+epoch:  66, setp: 8550, speed: 395.21ms/b, train loss: 0.021
+epoch  66, eval time:  2.30s, f1: 0.37, precision: 0.24, recall: 0.80
+saving the model, epoch:  66, best f1: 0.37, precision: 0.24, recall: 0.80
+epoch:  67, setp: 8600, speed: 511.43ms/b, train loss: 0.021
+epoch:  67, setp: 8650, speed: 395.83ms/b, train loss: 0.020
+epoch:  67, setp: 8700, speed: 405.13ms/b, train loss: 0.020
+epoch  67, eval time:  2.29s, f1: 0.36, precision: 0.23, recall: 0.82
+epoch:  68, setp: 8750, speed: 462.92ms/b, train loss: 0.020
+epoch:  68, setp: 8800, speed: 395.78ms/b, train loss: 0.022
+epoch  68, eval time:  2.33s, f1: 0.34, precision: 0.21, recall: 0.82
+epoch:  69, setp: 8850, speed: 453.75ms/b, train loss: 0.020
+epoch:  69, setp: 8900, speed: 405.57ms/b, train loss: 0.022
+epoch:  69, setp: 8950, speed: 403.22ms/b, train loss: 0.021
+epoch  69, eval time:  2.29s, f1: 0.38, precision: 0.25, recall: 0.76
+saving the model, epoch:  69, best f1: 0.38, precision: 0.25, recall: 0.76
+epoch:  70, setp: 9000, speed: 503.62ms/b, train loss: 0.020
+epoch:  70, setp: 9050, speed: 414.05ms/b, train loss: 0.020
+epoch  70, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.81
+epoch:  71, setp: 9100, speed: 457.30ms/b, train loss: 0.020
+epoch:  71, setp: 9150, speed: 395.91ms/b, train loss: 0.019
+epoch:  71, setp: 9200, speed: 409.24ms/b, train loss: 0.019
+epoch  71, eval time:  2.32s, f1: 0.34, precision: 0.21, recall: 0.84
+epoch:  72, setp: 9250, speed: 460.32ms/b, train loss: 0.020
+epoch:  72, setp: 9300, speed: 405.87ms/b, train loss: 0.021
+epoch  72, eval time:  2.29s, f1: 0.37, precision: 0.24, recall: 0.81
+epoch:  73, setp: 9350, speed: 440.78ms/b, train loss: 0.020
+epoch:  73, setp: 9400, speed: 403.73ms/b, train loss: 0.021
+epoch:  73, setp: 9450, speed: 412.98ms/b, train loss: 0.021
+epoch  73, eval time:  2.30s, f1: 0.38, precision: 0.25, recall: 0.81
+epoch:  74, setp: 9500, speed: 444.88ms/b, train loss: 0.019
+epoch:  74, setp: 9550, speed: 402.51ms/b, train loss: 0.021
+epoch:  74, setp: 9600, speed: 394.08ms/b, train loss: 0.019
+epoch  74, eval time:  2.30s, f1: 0.37, precision: 0.24, recall: 0.81
+epoch:  75, setp: 9650, speed: 447.99ms/b, train loss: 0.020
+epoch:  75, setp: 9700, speed: 403.52ms/b, train loss: 0.019
+epoch  75, eval time:  2.28s, f1: 0.37, precision: 0.24, recall: 0.82
+epoch:  76, setp: 9750, speed: 451.02ms/b, train loss: 0.019
+epoch:  76, setp: 9800, speed: 409.49ms/b, train loss: 0.020
+epoch:  76, setp: 9850, speed: 401.89ms/b, train loss: 0.022
+epoch  76, eval time:  2.28s, f1: 0.36, precision: 0.23, recall: 0.80
+epoch:  77, setp: 9900, speed: 457.59ms/b, train loss: 0.019
+epoch:  77, setp: 9950, speed: 396.26ms/b, train loss: 0.020
+epoch  77, eval time:  2.29s, f1: 0.38, precision: 0.25, recall: 0.80
+saving the model, epoch:  77, best f1: 0.38, precision: 0.25, recall: 0.80
+epoch:  78, setp: 10000, speed: 506.32ms/b, train loss: 0.020
+epoch:  78, setp: 10050, speed: 404.84ms/b, train loss: 0.019
+epoch:  78, setp: 10100, speed: 413.51ms/b, train loss: 0.020
+epoch  78, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.82
+epoch:  79, setp: 10150, speed: 459.75ms/b, train loss: 0.019
+epoch:  79, setp: 10200, speed: 402.17ms/b, train loss: 0.020
+epoch  79, eval time:  2.29s, f1: 0.36, precision: 0.23, recall: 0.82
+epoch:  80, setp: 10250, speed: 446.35ms/b, train loss: 0.019
+epoch:  80, setp: 10300, speed: 409.37ms/b, train loss: 0.019
+epoch:  80, setp: 10350, speed: 403.43ms/b, train loss: 0.019
+epoch  80, eval time:  2.30s, f1: 0.34, precision: 0.22, recall: 0.79
+epoch:  81, setp: 10400, speed: 451.56ms/b, train loss: 0.019
+epoch:  81, setp: 10450, speed: 403.01ms/b, train loss: 0.020
+epoch  81, eval time:  2.28s, f1: 0.38, precision: 0.25, recall: 0.80
+saving the model, epoch:  81, best f1: 0.38, precision: 0.25, recall: 0.80
+epoch:  82, setp: 10500, speed: 509.34ms/b, train loss: 0.018
+epoch:  82, setp: 10550, speed: 404.11ms/b, train loss: 0.020
+epoch:  82, setp: 10600, speed: 406.89ms/b, train loss: 0.019
+epoch  82, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.80
+epoch:  83, setp: 10650, speed: 450.05ms/b, train loss: 0.018
+epoch:  83, setp: 10700, speed: 403.34ms/b, train loss: 0.020
+epoch:  83, setp: 10750, speed: 394.08ms/b, train loss: 0.018
+epoch  83, eval time:  2.33s, f1: 0.37, precision: 0.24, recall: 0.82
+epoch:  84, setp: 10800, speed: 457.60ms/b, train loss: 0.019
+epoch:  84, setp: 10850, speed: 403.76ms/b, train loss: 0.018
+epoch  84, eval time:  2.29s, f1: 0.37, precision: 0.24, recall: 0.82
+epoch:  85, setp: 10900, speed: 453.04ms/b, train loss: 0.019
+epoch:  85, setp: 10950, speed: 400.93ms/b, train loss: 0.020
+epoch:  85, setp: 11000, speed: 401.47ms/b, train loss: 0.019
+epoch  85, eval time:  2.30s, f1: 0.38, precision: 0.25, recall: 0.78
+epoch:  86, setp: 11050, speed: 451.23ms/b, train loss: 0.020
+epoch:  86, setp: 11100, speed: 411.86ms/b, train loss: 0.019
+epoch  86, eval time:  2.31s, f1: 0.38, precision: 0.25, recall: 0.79
+epoch:  87, setp: 11150, speed: 446.89ms/b, train loss: 0.018
+epoch:  87, setp: 11200, speed: 407.40ms/b, train loss: 0.018
+epoch:  87, setp: 11250, speed: 404.21ms/b, train loss: 0.020
+epoch  87, eval time:  2.30s, f1: 0.35, precision: 0.23, recall: 0.83
+epoch:  88, setp: 11300, speed: 450.49ms/b, train loss: 0.018
+epoch:  88, setp: 11350, speed: 413.10ms/b, train loss: 0.020
+epoch  88, eval time:  2.29s, f1: 0.39, precision: 0.26, recall: 0.79
+saving the model, epoch:  88, best f1: 0.39, precision: 0.26, recall: 0.79
+epoch:  89, setp: 11400, speed: 501.97ms/b, train loss: 0.018
+epoch:  89, setp: 11450, speed: 406.12ms/b, train loss: 0.020
+epoch:  89, setp: 11500, speed: 406.52ms/b, train loss: 0.019
+epoch  89, eval time:  2.30s, f1: 0.36, precision: 0.23, recall: 0.82
+epoch:  90, setp: 11550, speed: 434.52ms/b, train loss: 0.018
+epoch:  90, setp: 11600, speed: 410.99ms/b, train loss: 0.017
+epoch  90, eval time:  2.31s, f1: 0.35, precision: 0.22, recall: 0.82
+epoch:  91, setp: 11650, speed: 453.23ms/b, train loss: 0.020
+epoch:  91, setp: 11700, speed: 423.68ms/b, train loss: 0.019
+epoch:  91, setp: 11750, speed: 390.64ms/b, train loss: 0.019
+epoch  91, eval time:  2.32s, f1: 0.33, precision: 0.21, recall: 0.84
+epoch:  92, setp: 11800, speed: 461.75ms/b, train loss: 0.019
+epoch:  92, setp: 11850, speed: 392.77ms/b, train loss: 0.019
+epoch:  92, setp: 11900, speed: 406.35ms/b, train loss: 0.019
+epoch  92, eval time:  2.29s, f1: 0.35, precision: 0.23, recall: 0.82
+epoch:  93, setp: 11950, speed: 462.41ms/b, train loss: 0.019
+epoch:  93, setp: 12000, speed: 390.51ms/b, train loss: 0.018
+epoch  93, eval time:  2.29s, f1: 0.39, precision: 0.26, recall: 0.81
+epoch:  94, setp: 12050, speed: 446.31ms/b, train loss: 0.018
+epoch:  94, setp: 12100, speed: 418.93ms/b, train loss: 0.018
+epoch:  94, setp: 12150, speed: 394.01ms/b, train loss: 0.018
+epoch  94, eval time:  2.30s, f1: 0.39, precision: 0.25, recall: 0.81
+epoch:  95, setp: 12200, speed: 450.44ms/b, train loss: 0.018
+epoch:  95, setp: 12250, speed: 406.42ms/b, train loss: 0.016
+epoch  95, eval time:  2.29s, f1: 0.40, precision: 0.27, recall: 0.80
+saving the model, epoch:  95, best f1: 0.40, precision: 0.27, recall: 0.80
+epoch:  96, setp: 12300, speed: 493.46ms/b, train loss: 0.019
+epoch:  96, setp: 12350, speed: 412.19ms/b, train loss: 0.019
+epoch:  96, setp: 12400, speed: 395.44ms/b, train loss: 0.018
+epoch  96, eval time:  2.32s, f1: 0.33, precision: 0.21, recall: 0.82
+epoch:  97, setp: 12450, speed: 468.47ms/b, train loss: 0.019
+epoch:  97, setp: 12500, speed: 400.32ms/b, train loss: 0.020
+epoch  97, eval time:  2.29s, f1: 0.38, precision: 0.25, recall: 0.81
+epoch:  98, setp: 12550, speed: 446.31ms/b, train loss: 0.018
+epoch:  98, setp: 12600, speed: 409.17ms/b, train loss: 0.018
+epoch:  98, setp: 12650, speed: 405.12ms/b, train loss: 0.019
+epoch  98, eval time:  2.30s, f1: 0.37, precision: 0.24, recall: 0.82
+epoch:  99, setp: 12700, speed: 447.03ms/b, train loss: 0.017
+epoch:  99, setp: 12750, speed: 409.41ms/b, train loss: 0.019
+epoch:  99, setp: 12800, speed: 387.56ms/b, train loss: 0.019
+epoch  99, eval time:  2.28s, f1: 0.39, precision: 0.25, recall: 0.81
+finish training
+best epoch: 95, best f1: 0.3982362496724665, precision: 0.2652241112828357, recall: 0.7988826815641714, total time: 5489.79s
